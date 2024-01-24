@@ -1,6 +1,6 @@
 # Bash Projects
 <p align="center">
-  <img src="https://raw.github.com/QwertyFusion/Bash-Projects/master/Images/thumbnail.png" alt="++10 Bash Projects by Rishi Banerjee" height="300"/>
+  <img src="https://raw.github.com/QwertyFusion/Bash-Projects/master/Images/thumbnail.png" alt="++10 Bash Projects by Rishi Banerjee"/>
 </p>
 <p align="center">This repository contains a collection of Bash scripts that serve various purposes, from network configuration and monitoring to system administration tasks. Each script is designed to be informative, modular, and ready for use in different scenarios.</p>
 
